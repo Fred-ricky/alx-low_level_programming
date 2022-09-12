@@ -17,7 +17,8 @@ if (n <= 25)
 {
 putchar(a);
 a++;
-} else
+}
+else
 {
 putchar(A);
 A++;
