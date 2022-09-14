@@ -1,5 +1,6 @@
 #include  "main.h"
 /**
+ * @n: its mine damnit
  * print_sign - print_alphabet
  * return: 1 if positive, return -1 if negative and 0 otherwise;
  * Does my stuff explained.
